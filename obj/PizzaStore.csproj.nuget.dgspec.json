@@ -1,0 +1,65 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\React\\PizzaStore\\PizzaStore\\PizzaStore.csproj": {}
+  },
+  "projects": {
+    "D:\\React\\PizzaStore\\PizzaStore\\PizzaStore.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\React\\PizzaStore\\PizzaStore\\PizzaStore.csproj",
+        "projectName": "PizzaStore",
+        "projectPath": "D:\\React\\PizzaStore\\PizzaStore\\PizzaStore.csproj",
+        "packagesPath": "C:\\Users\\tuong.huynh\\.nuget\\packages\\",
+        "outputPath": "D:\\React\\PizzaStore\\PizzaStore\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\tuong.huynh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Users\\tuong.huynh\\Downloads\\syncfusion.officechart.net.core.20.1.0.57-1177104552 (2)": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://packagesource": {},
+          "https://symphonyvsts.pkgs.visualstudio.com/_packaging/deloitte-nuget/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
