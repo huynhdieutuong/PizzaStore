@@ -1,0 +1,15 @@
+D:\React\PizzaStore\PizzaStore\bin\Debug\net6.0\PizzaStore.exe
+D:\React\PizzaStore\PizzaStore\bin\Debug\net6.0\PizzaStore.deps.json
+D:\React\PizzaStore\PizzaStore\bin\Debug\net6.0\PizzaStore.runtimeconfig.json
+D:\React\PizzaStore\PizzaStore\bin\Debug\net6.0\PizzaStore.dll
+D:\React\PizzaStore\PizzaStore\bin\Debug\net6.0\PizzaStore.pdb
+D:\React\PizzaStore\PizzaStore\obj\Debug\net6.0\PizzaStore.csproj.AssemblyReference.cache
+D:\React\PizzaStore\PizzaStore\obj\Debug\net6.0\PizzaStore.GeneratedMSBuildEditorConfig.editorconfig
+D:\React\PizzaStore\PizzaStore\obj\Debug\net6.0\PizzaStore.AssemblyInfoInputs.cache
+D:\React\PizzaStore\PizzaStore\obj\Debug\net6.0\PizzaStore.AssemblyInfo.cs
+D:\React\PizzaStore\PizzaStore\obj\Debug\net6.0\PizzaStore.csproj.CoreCompileInputs.cache
+D:\React\PizzaStore\PizzaStore\obj\Debug\net6.0\PizzaStore.dll
+D:\React\PizzaStore\PizzaStore\obj\Debug\net6.0\refint\PizzaStore.dll
+D:\React\PizzaStore\PizzaStore\obj\Debug\net6.0\PizzaStore.pdb
+D:\React\PizzaStore\PizzaStore\obj\Debug\net6.0\PizzaStore.genruntimeconfig.cache
+D:\React\PizzaStore\PizzaStore\obj\Debug\net6.0\ref\PizzaStore.dll
